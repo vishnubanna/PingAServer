@@ -1,5 +1,5 @@
 # PingAServer
-to learn how to run :: ./ping -h
+to learn how to run, run the command :: ./ping -h
 
 
  Author: Vishnu Banna
