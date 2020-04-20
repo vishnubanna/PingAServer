@@ -1,4 +1,7 @@
 # PingAServer
+to learn how to run :: ./ping -h
+
+
  Author: Vishnu Banna
 "email:  vbanna@purdue.edu"
 
